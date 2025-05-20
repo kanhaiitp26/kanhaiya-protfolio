@@ -149,8 +149,8 @@ export const SkillsInfo = [
       school: "K L S College, Nawada",
       date: "Apr 2021 - March 2023",
       grade: "84.2%",
-      desc: "I completed my class 12 education from K L S College, Nawada, under the BSEB board, where I studied Physics, Chemistry, and Mathematics (PCM).",
-      degree: "BSEB(XII) - PCM",
+      desc: "I completed my class 12 education from K L S College, Nawada, under the BSEB board, where I studied Physics, Chemistry, Mathematics and Biology (PCMB).",
+      degree: "BSEB(XII) - PCMB",
     },
     {
       id: 3,
@@ -159,7 +159,7 @@ export const SkillsInfo = [
       date: "Apr 2019 - March 2021",
       grade: "88.6%",
       desc: "I completed my class 10 education from Inter School Hisua, Nawada, under the BSEB board.",
-      degree: "BSEB(X), Science with Computer Application",
+      degree: "BSEB(X)",
     },
   ];
   
